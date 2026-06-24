@@ -1,0 +1,16 @@
+# Backend
+inventory_backend/venv/
+inventory_backend/.env
+inventory_backend/__pycache__/
+
+# Frontend
+inventory_frontend/node_modules/
+inventory_frontend/dist/
+inventory_frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
