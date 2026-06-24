@@ -32,7 +32,11 @@ Full-stack inventory management app with a FastAPI backend and a React + TypeScr
 - Frontend API requests point to the backend `/api` base URL
 - CORS is configured on the backend for the deployed frontend origin
 
+## Admin Login
+
+- Username: `admin`
+- Password: `admin123`
+
 ## Local Development
 
 See the service-specific READMEs for exact setup and run commands.
-
