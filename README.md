@@ -28,7 +28,7 @@ Full-stack inventory management app with a FastAPI backend and a React + TypeScr
 ## Deployment
 
 - Backend deployed on [Railway](https://inventorybackend-production-5227.up.railway.app/)
-- Frontend deployed on [Vercel](https://inventory-frontend-g4m0kaceo-heyoojatinheres-projects.vercel.app/)
+- Frontend deployed on [Vercel](https://inventory-frontend-git-main-heyoojatinheres-projects.vercel.app/)
 
 
 ## Admin Login
